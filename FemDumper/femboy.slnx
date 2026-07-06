@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="femboy/femboy.vcxproj" Id="2269a0d4-698e-461c-b069-e5b36f2f2477" />
+</Solution>
